@@ -3,5 +3,5 @@
 full_name = input("Enter your full name with spaces at the beginning: ")
 
 #print the input without spaces
-no_spaces = full_name.lstrip
-print(no_spaces)
+no_spaces = full_name.lstrip()
+print(f"Name with no spaces: {no_spaces}")
