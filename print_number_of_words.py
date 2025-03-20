@@ -7,4 +7,4 @@ statement = input("Please enter a complete statement: ")
 word_count = len(statement.split())
 
 #print the result
-print("The amount of words inside the statements are: ")
+print(f"The amount of words inside the statements are: {word_count} ")
