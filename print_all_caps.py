@@ -1,4 +1,4 @@
 #ask the user to input their name
-all_caps = input("Please Enter your full name: ")
-#store inside a variable to modify
+#store inside a variable to 
+full_name = input("Please Enter your full name: ")
 #modify the variable into making it all caps
